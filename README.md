@@ -31,6 +31,37 @@
 <img align="center" alt="" width="35px" src="./assets/" />
 </div>
 
+## Social media:
+
+<a href="https://www.youtube.com/channel/UCvJnU0c3kKfBBdKDiwJT8OA">
+
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+</a>
+
+<a href="https://www.tiktok.com/@8.t.j">
+
+![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
+</a>
+
+<a href="https://www.instagram.com/gtjman_/">
+
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+</a>
+
+<a href="https://twitter.com/gtjman_">
+
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+</a>
+
+<a href="https://discord.gg/HhXVgT62VB">
+
+![discord](https://img.shields.io/discord/893859514548371546?color=%237289da&label=Discord%20Server&logo=discord&logoColor=%237289da&style=for-the-badge)
+</a>
+<a href="https://discord.gg/dev-center">
+
+![discord2](https://img.shields.io/discord/804432734066835556?color=%237289da&label=Discord%20Server%202&logo=discord&logoColor=%237289da&style=for-the-badge)
+</a>
+
 ## Profile visitors:
 
 ![profileVisitors](https://profile-counter.glitch.me/gtjman/count.svg)
