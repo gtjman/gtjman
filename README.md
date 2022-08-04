@@ -31,11 +31,11 @@
 <img align="center" alt="" width="35px" src="./assets/" />
 </div>
 
-### Profile visitors:
+## Profile visitors:
 
 ![profileVisitors](https://profile-counter.glitch.me/gtjman/count.svg)
 
-### Github status:
+## Github status:
 
 ![GithubStatus](https://github-readme-stats.vercel.app/api?username=gtjman&show_icons=true&theme=gruvbox)
 
