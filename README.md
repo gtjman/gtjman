@@ -22,3 +22,7 @@
 <img align="left" alt="Electron.js" width="35px" src="./assets/electronjs.png" />
 <img align="left" alt="Gimp" width="35px" src="./assets/gimp.png" />
 <img align="left" alt="" width="35px" src="./assets/" />
+
+### Profile visitors:
+
+![profileVisitors](https://profile-counter.glitch.me/gtjman/count.svg)
