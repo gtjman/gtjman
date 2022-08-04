@@ -1,11 +1,13 @@
 <div align="center">
 
-### Hello, I'm Omar aka (gtjman) 👋.
+# Hello, I'm Omar aka (gtjman) 👋.
+
+##### I'm a full-stack web developer
 
 </div>
 <div align="center">
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="center" alt="JavaScript" width="35px" src="./assets/javascript.png" />
 <img align="center" alt="TypeScript" width="37px" src="./assets/typescript.png" />
