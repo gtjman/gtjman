@@ -29,7 +29,6 @@
 <img align="center" alt="Electron.js" width="35px" src="./assets/electronjs.png" />
 <img align="center" alt="Gimp" width="35px" src="./assets/gimp.png" />
 <img align="center" alt="" width="35px" src="./assets/" />
-</div>
 
 ## Social media:
 
@@ -71,3 +70,5 @@
 ![GithubStatus](https://github-readme-stats.vercel.app/api?username=gtjman&show_icons=true&theme=gruvbox)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtjman&langs_count=10&theme=gruvbox)
+
+</div>
