@@ -61,7 +61,7 @@
 ![discord2](https://img.shields.io/discord/804432734066835556?color=%237289da&label=Discord%20Server%202&logo=discord&logoColor=%237289da&style=for-the-badge)
 </a>
 
-## Profile visitors:
+## Profile views:
 
 ![profileVisitors](https://profile-counter.glitch.me/gtjman/count.svg)
 
