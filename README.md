@@ -30,30 +30,6 @@
 <img align="center" alt="Gimp" width="35px" src="./assets/gimp.png" />
 <img align="center" alt="" width="35px" src="./assets/" />
 
-## Social media:
-
-<a href="https://www.youtube.com/channel/UCvJnU0c3kKfBBdKDiwJT8OA">
-
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-</a>
-
-<a href="https://www.tiktok.com/@8.t.j">
-
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
-</a>
-
-<a href="https://www.instagram.com/gtjman_/">
-
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-</a>
-
-<a href="https://twitter.com/gtjman_">
-
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-</a>
-
-<a href="https://discord.gg/HhXVgT62VB">
-
 ## Profile views:
 
 ![profileVisitors](https://profile-counter.glitch.me/gtjman/count.svg)
