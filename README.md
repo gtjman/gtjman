@@ -54,13 +54,6 @@
 
 <a href="https://discord.gg/HhXVgT62VB">
 
-![discord](https://img.shields.io/discord/893859514548371546?color=%237289da&label=Discord%20Server&logo=discord&logoColor=%237289da&style=for-the-badge)
-</a>
-<a href="https://discord.gg/dev-center">
-
-![discord2](https://img.shields.io/discord/804432734066835556?color=%237289da&label=Discord%20Server%202&logo=discord&logoColor=%237289da&style=for-the-badge)
-</a>
-
 ## Profile views:
 
 ![profileVisitors](https://profile-counter.glitch.me/gtjman/count.svg)
