@@ -2,7 +2,7 @@
 
 # Hello, I'm Omar aka (gtjman) 👋.
 
-##### I'm a full-stack web developer
+##### I'm a web developer
 
 </div>
 <div align="center">
